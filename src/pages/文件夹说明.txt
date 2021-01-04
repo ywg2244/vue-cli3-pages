@@ -1,0 +1,5 @@
+lecturer-----金牌讲师
+hotClass-----热门课程
+index-----首页
+login-----登录
+career-----职业打造
